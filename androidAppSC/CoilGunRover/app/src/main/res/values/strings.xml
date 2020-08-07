@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">CoilGunRover</string>
+    <string name="fire">Fire</string>
+    <string name="check_relay">Check Relay</string>
+    <string name="charge">Charge</string>
+    <string name="angle_adjuster">Angle Adjuster</string>
+    <string name="coil_adjuster">Coil Adjuster</string>
+    <string name="direction_adjuster">Direction Adjuster</string>
+    <string name="textview">TextView</string>
+    <string name="motor_control">Motor Control</string>
+    <string name="bluetooth">Bluetooth</string>
+</resources>
